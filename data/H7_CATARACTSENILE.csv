@@ -1,3 +1,3 @@
 trait	#chrom	pos	alt	ref	beta	se	pval	study_doi
-H7_CATARACTSENILE	3	156387295	G	T	0.09	0.02	2.25E-08	10.1093/hmg/ddu315
-H7_CATARACTSENILE	21	43173030	G	A	0.09	0.02	3.07E-08	10.1093/hmg/ddu315
+Age-related cataract	3	156387295	G	T	0.09	0.02	2.25E-08	10.1093/hmg/ddu315
+Age-related cataract	21	43173030	G	A	0.09	0.02	3.07E-08	10.1093/hmg/ddu315
