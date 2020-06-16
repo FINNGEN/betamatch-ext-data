@@ -1,16 +1,4 @@
-trait	#chrom	pos	alt	ref	beta	se	pval	study_doi	gene	rsid
-Primary Open-Angle Glaucoma	9	22049657	G	A	-0.2613647641		2.80E-32	10.1038/s41467-018-04555-4		
-Primary Open-Angle Glaucoma	7	73907881	TG	T	-0.3566749439		3.90E-09	10.1038/s41467-018-04555-4		
-Primary Open-Angle Glaucoma	9	104933567	G	A	0.1570037488		1.20E-13	10.1038/s41467-018-04555-4		
-Primary Open-Angle Glaucoma	15	57209216	A	G	-0.1508228897		8.50E-10	10.1038/s41467-018-04555-4		
-Primary Open-Angle Glaucoma	12	83552671	G	T	-0.1392620673		6.10E-10	10.1038/s41467-018-04555-4		
-Primary Open-Angle Glaucoma	14	60628456	G	C	0.1570037488		1.10E-12	10.1038/s41467-018-04555-4		
-Primary Open-Angle Glaucoma	2	152448216	A	C	-0.1278333715		1.00E-08	10.1038/s41467-018-04555-4		
-Primary Open-Angle Glaucoma	4	7908045	T	C	-0.1508228897		1.20E-11	10.1038/s41467-018-04555-4		
-Primary Open-Angle Glaucoma	6	36630432	G	A	-0.1508228897		2.30E-09	10.1038/s41467-018-04555-4		
-Primary Open-Angle Glaucoma	1	165725660	T	C	0.3001045925		1.60E-21	10.1038/s41467-018-04555-4		
-Primary Open-Angle Glaucoma	6	136153656	T	A	0.1484200051		3.00E-11	10.1038/s41467-018-04555-4		
-Primary Open-Angle Glaucoma	17	10127866	A	G	0.1988508587		1.50E-18	10.1038/s41467-018-04555-4		
+trait	#chrom	pos	alt	ref	beta	se	pval	study_doi	gene	rsid	notes
 Primary Open-Angle Glaucoma	1	8435530	A	G	-0.0571	0.0102	1.93E-08	10.1101/2020.01.30.927822	RERE	rs172531
 Primary Open-Angle Glaucoma	1	36147354	A	C	0.0763	0.0113	1.80E-11	10.1101/2020.01.30.927822	TRAPPC3	rs4652902
 Primary Open-Angle Glaucoma	1	37611020	T	C	0.0505	0.0093	4.89E-08	10.1101/2020.01.30.927822	RSPO1	rs10908363
@@ -80,3 +68,33 @@ Primary Open-Angle Glaucoma	23	3411552	T	C	0.0542	0.0091	2.63E-09	10.1101/2020.0
 Primary Open-Angle Glaucoma	23	13936278	T	C	0.0769	0.0097	1.83E-15	10.1101/2020.01.30.927822	GPM6B	rs66819623
 Primary Open-Angle Glaucoma	23	44081581	T	C	-0.0695	0.0097	6.70E-13	10.1101/2020.01.30.927822	NDP/EFHC2	rs17146835
 Primary Open-Angle Glaucoma	23	110542882	A	C	-0.0722	0.0103	2.02E-12	10.1101/2020.01.30.927822	TDGF1P3/CHRDL1	rs12013156
+Primary Open-Angle Glaucoma	1	165725660	T	C	0.3001045925		1.60E-21	10.1038/s41467-018-04555-4	TMCO1	rs7524755	Table 2 (Estimation + discovery in GERA)
+Primary Open-Angle Glaucoma	2	152448216	A	C	-0.1278333715		1.00E-08	10.1038/s41467-018-04555-4	FMNL2	rs56117902	Table 2 (Estimation + discovery in GERA)
+Primary Open-Angle Glaucoma	4	7908045	T	C	-0.1508228897		1.20E-11	10.1038/s41467-018-04555-4	AFAP1	rs59521811	Table 2 (Estimation + discovery in GERA)
+Primary Open-Angle Glaucoma	6	36630432	G	A	-0.1508228897		2.30E-09	10.1038/s41467-018-04555-4	near CDKN1A	rs6913530	Table 2 (Estimation + discovery in GERA)
+Primary Open-Angle Glaucoma	6	136153656	T	A	0.1484200051		3.00E-11	10.1038/s41467-018-04555-4	PDE7B	rs9494457	Table 2 (Estimation + discovery in GERA)
+Primary Open-Angle Glaucoma	7	73907881	TG	T	-0.3566749439		3.90E-09	10.1038/s41467-018-04555-4	near ELN	rs149154973	Table 2 (Estimation + discovery in GERA)
+Primary Open-Angle Glaucoma	9	22049657	G	A	-0.2613647641		2.80E-32	10.1038/s41467-018-04555-4	CDKN2B-AS1	rs10811645	Table 2 (Estimation + discovery in GERA)
+Primary Open-Angle Glaucoma	9	104933567	G	A	0.1570037488		1.20E-13	10.1038/s41467-018-04555-4	near ABCA1	rs2472493	Table 2 (Estimation + discovery in GERA)
+Primary Open-Angle Glaucoma	12	83552671	G	T	-0.1392620673		6.10E-10	10.1038/s41467-018-04555-4	near TMTC2	rs324794	Table 2 (Estimation + discovery in GERA)
+Primary Open-Angle Glaucoma	14	60628456	G	C	0.1570037488		1.10E-12	10.1038/s41467-018-04555-4	SIX1/SIX6	rs35155027	Table 2 (Estimation + discovery in GERA)
+Primary Open-Angle Glaucoma	15	57209216	A	G	-0.1508228897		8.50E-10	10.1038/s41467-018-04555-4	TCF12	rs2593221	Table 2 (Estimation + discovery in GERA)
+Primary Open-Angle Glaucoma	17	10127866	A	G	0.1988508587		1.50E-18	10.1038/s41467-018-04555-4	GAS7	rs9913911	Table 2 (Estimation + discovery in GERA)
+Primary Open-Angle Glaucoma	1	165770361	C	T	3.29E-01		7.50E-44	10.1038/s41467-018-04555-4	TMCO1	rs2814471	Table 3 (Estimation + discovery in UKBB)
+Primary Open-Angle Glaucoma	2	212893510	G	C	1.66E-01		1.70E-08	10.1038/s41467-018-04555-4	near IKZF2	rs56335522	Table 3 (Estimation + discovery in UKBB)
+Primary Open-Angle Glaucoma	3	85088348	A	G	1.04E-01		6.10E-10	10.1038/s41467-018-04555-4	CADM2	rs34201102	Table 3 (Estimation + discovery in UKBB)
+Primary Open-Angle Glaucoma	3	186413811	T	A	1.04E-01		1.70E-09	10.1038/s41467-018-04555-4	near DGKG	rs9853115	Table 3 (Estimation + discovery in UKBB)
+Primary Open-Angle Glaucoma	4	7882160	C	G	1.48E-01		2.40E-18	10.1038/s41467-018-04555-4	AFAP1	rs9330348	Table 3 (Estimation + discovery in UKBB)
+Primary Open-Angle Glaucoma	5	14837223	A	C	1.31E-01		1.40E-10	10.1038/s41467-018-04555-4	ANKH	rs76325372	Table 3 (Estimation + discovery in UKBB)
+Primary Open-Angle Glaucoma	6	637465	C	T	-1.51E-01		2.80E-10	10.1038/s41467-018-04555-4	EXOC2	rs2073006	Table 3 (Estimation + discovery in UKBB)
+Primary Open-Angle Glaucoma	7	11639486	A	G	-1.05E-01		1.50E-09	10.1038/s41467-018-04555-4	THSD7A	rs12699251	Table 3 (Estimation + discovery in UKBB)
+Primary Open-Angle Glaucoma	7	116514777	G	T	-1.05E-01		8.40E-09	10.1038/s41467-018-04555-4	CAV1/CAV2	rs6969706	Table 3 (Estimation + discovery in UKBB)
+Primary Open-Angle Glaucoma	8	107264645	C	T	-1.74E-01		1.40E-11	10.1038/s41467-018-04555-4	ANGPT1	rs2514884	Table 3 (Estimation + discovery in UKBB)
+Primary Open-Angle Glaucoma	9	22040766	C	T	-1.74E-01		2.40E-23	10.1038/s41467-018-04555-4	CDKN2B-AS1	rs1333037	Table 3 (Estimation + discovery in UKBB)
+Primary Open-Angle Glaucoma	9	104933567	G	A	1.40E-01		6.30E-17	10.1038/s41467-018-04555-4	near ABCA1	rs2472493	Table 3 (Estimation + discovery in UKBB)
+Primary Open-Angle Glaucoma	9	126625754	C	A	-1.51E-01		5.50E-14	10.1038/s41467-018-04555-4	LMX1B	rs55770306	Table 3 (Estimation + discovery in UKBB)
+Primary Open-Angle Glaucoma	10	94279840	G	C	-9.43E-02		3.10E-08	10.1038/s41467-018-04555-4	PLCE1	rs2274224	Table 3 (Estimation + discovery in UKBB)
+Primary Open-Angle Glaucoma	11	120332919	G	A	-1.05E-01		3.80E-09	10.1038/s41467-018-04555-4	TMEM136	rs12806740	Table 3 (Estimation + discovery in UKBB)
+Primary Open-Angle Glaucoma	14	60624683	G	A	1.31E-01		3.60E-13	10.1038/s41467-018-04555-4	SIX1/SIX6	rs34935520	Table 3 (Estimation + discovery in UKBB)
+Primary Open-Angle Glaucoma	17	10127866	A	G	1.57E-01		2.20E-17	10.1038/s41467-018-04555-4	GAS7	rs9913911	Table 3 (Estimation + discovery in UKBB)
+Primary Open-Angle Glaucoma	22	19869187	C	T	1.40E-01		8.30E-09	10.1038/s41467-018-04555-4	near TXNRD2	rs58714937	Table 3 (Estimation + discovery in UKBB)
