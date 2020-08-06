@@ -1,5 +1,5 @@
 trait	#chrom	pos	alt	ref	beta	se	pval	study_doi	gene	rsid	notes	maf
-Amyotrophic lateral sclerosis	12	56922819	G	T	0.316	5.70E-02	2.30E-08	10.1016/j.neuron.2018.02.027	KIF5A	rs117027576	ref alt allele guesswork through MAF	1.81%
+Amyotrophic lateral sclerosis	12	56922819	T	G	0.316	5.70E-02	2.30E-08	10.1016/j.neuron.2018.02.027	KIF5A	rs117027576	ref alt allele guesswork through MAF	1.81%
 Amyotrophic lateral sclerosis	12	56925035	T	C	0.317	5.10E-02	2.00E-08	10.1016/j.neuron.2018.02.027	KIF5A	rs118082508	ref alt allele guesswork through MAF	1.81%
 Amyotrophic lateral sclerosis	12	57581917	T	C	0.322	5.20E-02	6.40E-10	10.1016/j.neuron.2018.02.027	KIF5A	rs113247976	ref alt allele guesswork through MAF	2.02%
 Amyotrophic lateral sclerosis	12	58262322	T	C	0.317	5.10E-02	6.60E-10	10.1016/j.neuron.2018.02.027	KIF5A	rs116900480	ref alt allele guesswork through MAF	1.95%
