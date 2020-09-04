@@ -1,4 +1,4 @@
-trait	#chrom	pos	alt	ref	beta	se	pval	study_do	notes
+trait	#chrom	pos	alt	ref	beta	se	pval	study_doi	notes
 M13_ANKYLOSPON	1	24978623	T	C	-0.1863295782	NA	8.84E-29	10.1038/ng.3528	
 M13_ANKYLOSPON	1	67242472	T	G	-0.5074978337	NA	1.24E-143	10.1038/ng.3528	
 M13_ANKYLOSPON	1	67256884	A	C	0.1518623493	NA	1.55E-24	10.1038/ng.3528	
