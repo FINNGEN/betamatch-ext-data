@@ -1,29 +1,98 @@
-trait	#chrom	pos	ref	alt	pval	beta	se	study_doi
-Asthma (self-reported doctor-diagnosed)	1	10497194	T	C	9.7E-06	0.039220713153281		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	1	154453788	C	T	5.8E-06	0.029558802241545		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	1	161189357	C	T	4.7E-07	0.039220713153281		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	1	167464183	A	G	5.7E-12	-0.051293294387551		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	1	173182897	T	G	5.8E-07	0.039220713153281		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	1	203131376	T	A	5.9E-11	-0.051293294387551		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	2	8317950	G	A	1.8E-13	-0.061875403718088		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	2	102369762	G	A	7.4E-40	-0.105360515657826		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	2	241759225	G	A	1.5E-39	-0.116533816255952		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	3	188684683	C	T	4.1E-10	-0.061875403718088		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	4	38798089	T	C	1.3E-17	-0.083381608939051		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	5	111066174	T	C	3.4E-41	0.113328685307003		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	5	132634182	T	C	1E-24	0.095310179804325		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	5	142149394	C	T	1.8E-08	0.039220713153281		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	6	31354420	T	A	6.1E-55	0.113328685307003		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	6	32652506	C	T	1.9E-105	0.165514438477573		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	6	90275479	A	T	2.5E-21	-0.072570692834835		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	8	80379644	T	C	9.6E-18	-0.061875403718088		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	9	6190076	A	C	6.4E-48	0.139761942375159		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	10	9007290	C	T	1E-33	-0.150822889734584		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	11	76559639	A	G	8.9E-33	0.095310179804325		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	12	57115272	T	C	1.4E-21	0.067658648473815		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	14	68283210	G	A	1.4E-12	0.058268908123976		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	15	60777789	C	T	7.3E-17	-0.094310679471241		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	15	67154447	G	A	3.5E-14	-0.051293294387551		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	16	11134855	C	T	7.7E-23	-0.083381608939051		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	17	39913696	C	T	1.7E-44	0.104360015324243		10.1038/cti.2017.54
-Asthma (self-reported doctor-diagnosed)	22	37137994	G	A	0.00042	-0.030459207484709		10.1038/cti.2017.54
+trait	#chrom	pos	ref	alt	pval	beta	se	study_doi	rsid	eaf	n_cases	n_controls
+Asthma (self-reported doctor-diagnosed)	1	10497194	T	C	9.70E-06	0.03922071315		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	1	154453788	C	T	5.80E-06	0.02955880224		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	1	161189357	C	T	4.70E-07	0.03922071315		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	1	167464183	A	G	5.70E-12	-0.05129329439		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	1	173182897	T	G	5.80E-07	0.03922071315		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	1	203131376	T	A	5.90E-11	-0.05129329439		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	2	8317950	G	A	1.80E-13	-0.06187540372		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	2	102369762	G	A	7.40E-40	-0.1053605157		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	2	241759225	G	A	1.50E-39	-0.1165338163		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	3	188684683	C	T	4.10E-10	-0.06187540372		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	4	38798089	T	C	1.30E-17	-0.08338160894		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	5	111066174	T	C	3.40E-41	0.1133286853		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	5	132634182	T	C	1.00E-24	0.0953101798		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	5	142149394	C	T	1.80E-08	0.03922071315		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	6	31354420	T	A	6.10E-55	0.1133286853		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	6	32652506	C	T	1.90E-105	0.1655144385		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	6	90275479	A	T	2.50E-21	-0.07257069283		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	8	80379644	T	C	9.60E-18	-0.06187540372		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	9	6190076	A	C	6.40E-48	0.1397619424		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	10	9007290	C	T	1.00E-33	-0.1508228897		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	11	76559639	A	G	8.90E-33	0.0953101798		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	12	57115272	T	C	1.40E-21	0.06765864847		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	14	68283210	G	A	1.40E-12	0.05826890812		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	15	60777789	C	T	7.30E-17	-0.09431067947		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	15	67154447	G	A	3.50E-14	-0.05129329439		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	16	11134855	C	T	7.70E-23	-0.08338160894		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	17	39913696	C	T	1.70E-44	0.1043600153		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	22	37137994	G	A	0.00042	-0.03045920748		10.1038/cti.2017.54				
+Asthma (self-reported doctor-diagnosed)	1	12115601	A	G	0.00000000033			10.1038/s41467-020-15649-3	rs2230624	0.99	84492	437036
+Asthma (self-reported doctor-diagnosed)	1	26275079	A	G	0.000000092			10.1038/s41467-020-15649-3	rs11577318	0.18	84492	437036
+Asthma (self-reported doctor-diagnosed)	1	31699894	G	T	0.000000057			10.1038/s41467-020-15649-3	rs2228552	0.63	84492	437036
+Asthma (self-reported doctor-diagnosed)	1	46089628	T	C	0.000000049			10.1038/s41467-020-15649-3	rs785482	0.44	84492	437036
+Asthma (self-reported doctor-diagnosed)	1	206451019	C	A	0.000000018			10.1038/s41467-020-15649-3	rs4127124	0.49	84492	437036
+Asthma (self-reported doctor-diagnosed)	2	24473101	T	C	0.000000045			10.1038/s41467-020-15649-3	rs4665699	0.95	84492	437036
+Asthma (self-reported doctor-diagnosed)	2	30251485	G	A	0.000000012			10.1038/s41467-020-15649-3	rs72787718	0.23	84492	437036
+Asthma (self-reported doctor-diagnosed)	2	60718420	G	A	0.0000000088			10.1038/s41467-020-15649-3	rs68110799	0.26	84492	437036
+Asthma (self-reported doctor-diagnosed)	2	71812584	G	T	0.00000000037			10.1038/s41467-020-15649-3	rs35548551	0.12	84492	437036
+Asthma (self-reported doctor-diagnosed)	2	162053713	C	G	0.000000002			10.1038/s41467-020-15649-3	rs6741949	0.56	84492	437036
+Asthma (self-reported doctor-diagnosed)	2	186669456	G	T	0.000000056			10.1038/s41467-020-15649-3	rs2595389	0.54	84492	437036
+Asthma (self-reported doctor-diagnosed)	3	12657862	A	C	0.00000015			10.1038/s41467-020-15649-3	rs13101202	0.17	84492	437036
+Asthma (self-reported doctor-diagnosed)	3	16930719	A	G	0.00000000091			10.1038/s41467-020-15649-3	rs2014490	0.65	84492	437036
+Asthma (self-reported doctor-diagnosed)	3	23556495	C	T	0.00000000031			10.1038/s41467-020-15649-3	rs2036226	0.59	84492	437036
+Asthma (self-reported doctor-diagnosed)	3	50734193	A	G	0.000000019			10.1038/s41467-020-15649-3	rs73072483	0.87	84492	437036
+Asthma (self-reported doctor-diagnosed)	3	55555776	C	T	0.000000042			10.1038/s41467-020-15649-3	rs1846593	0.54	84492	437036
+Asthma (self-reported doctor-diagnosed)	3	56707557	G	A	0.0000000034			10.1038/s41467-020-15649-3	rs9813229	0.62	84492	437036
+Asthma (self-reported doctor-diagnosed)	3	71205600	C	T	0.000000021			10.1038/s41467-020-15649-3	rs7372960	0.75	84492	437036
+Asthma (self-reported doctor-diagnosed)	3	112931584	G	T	0.00000000028			10.1038/s41467-020-15649-3	rs7622814	0.46	84492	437036
+Asthma (self-reported doctor-diagnosed)	3	119542019	T	C	0.00000002			10.1038/s41467-020-15649-3	rs9877891	0.18	84492	437036
+Asthma (self-reported doctor-diagnosed)	3	169409731	A	C	0.0000000075			10.1038/s41467-020-15649-3	rs17485347	0.75	84492	437036
+Asthma (self-reported doctor-diagnosed)	4	144558728	C	T	0.0000000085			10.1038/s41467-020-15649-3	rs6842889	0.61	84492	437036
+Asthma (self-reported doctor-diagnosed)	5	131619794	A	G	0			10.1038/s41467-020-15649-3	rs11950815	0.63	84492	437036
+Asthma (self-reported doctor-diagnosed)	5	134103583	A	G	0.000000079			10.1038/s41467-020-15649-3	rs62379371	0.95	84492	437036
+Asthma (self-reported doctor-diagnosed)	5	157325949	A	G	0			10.1038/s41467-020-15649-3	rs11746314	0.06	84492	437036
+Asthma (self-reported doctor-diagnosed)	6	12159466	T	C	0.0000000031			10.1038/s41467-020-15649-3	rs3777755	0.7	84492	437036
+Asthma (self-reported doctor-diagnosed)	6	19341070	G	A	0.00000015			10.1038/s41467-020-15649-3	rs13203384	0.21	84492	437036
+Asthma (self-reported doctor-diagnosed)	6	21884209	G	A	0.0000000043			10.1038/s41467-020-15649-3	rs952579	0.14	84492	437036
+Asthma (self-reported doctor-diagnosed)	6	26319360	G	T	0			10.1038/s41467-020-15649-3	rs766406	0.65	84492	437036
+Asthma (self-reported doctor-diagnosed)	6	35254233	C	T	0.000000032			10.1038/s41467-020-15649-3	rs9394288	0.2	84492	437036
+Asthma (self-reported doctor-diagnosed)	6	109048803	G	A	0.00000000027			10.1038/s41467-020-15649-3	rs11759732	0.85	84492	437036
+Asthma (self-reported doctor-diagnosed)	6	135483493	C	A	0			10.1038/s41467-020-15649-3	rs4526212	0.37	84492	437036
+Asthma (self-reported doctor-diagnosed)	6	142901633	G	T	0.0000000017			10.1038/s41467-020-15649-3	rs13190880	0.09	84492	437036
+Asthma (self-reported doctor-diagnosed)	6	149466242	G	A	0.00000000033			10.1038/s41467-020-15649-3	rs431362	0.36	84492	437036
+Asthma (self-reported doctor-diagnosed)	6	154753371	T	G	0.0000000055			10.1038/s41467-020-15649-3	rs4599658	0.47	84492	437036
+Asthma (self-reported doctor-diagnosed)	7	3110249	C	T	0			10.1038/s41467-020-15649-3	rs73033536	0.91	84492	437036
+Asthma (self-reported doctor-diagnosed)	8	8310891	C	A	0.0000000033			10.1038/s41467-020-15649-3	rs7014953	0.6	84492	437036
+Asthma (self-reported doctor-diagnosed)	8	144103704	G	A	0.00000000022			10.1038/s41467-020-15649-3	rs34173062	0.07	84492	437036
+Asthma (self-reported doctor-diagnosed)	9	99067260	G	A	0			10.1038/s41467-020-15649-3	rs1537504	0.23	84492	437036
+Asthma (self-reported doctor-diagnosed)	9	114746157	T	C	0.00000027			10.1038/s41467-020-15649-3	rs4978607	0.88	84492	437036
+Asthma (self-reported doctor-diagnosed)	9	124309214	T	C	0			10.1038/s41467-020-15649-3	rs10986311	0.37	84492	437036
+Asthma (self-reported doctor-diagnosed)	9	133264505	GAAACTGCC	G	0.000000044			10.1038/s41467-020-15649-3	rs782134971	0.25	84492	437036
+Asthma (self-reported doctor-diagnosed)	10	30512789	T	G	0.000000004			10.1038/s41467-020-15649-3	rs9284092	0.73	84492	437036
+Asthma (self-reported doctor-diagnosed)	10	43254252	G	A	0.000000033			10.1038/s41467-020-15649-3	rs12769745	0.28	84492	437036
+Asthma (self-reported doctor-diagnosed)	10	73778893	G	C	0.000000037			10.1038/s41467-020-15649-3	rs1134777	0.73	84492	437036
+Asthma (self-reported doctor-diagnosed)	11	45225625	T	C	0.00000000038			10.1038/s41467-020-15649-3	rs714417	0.69	84492	437036
+Asthma (self-reported doctor-diagnosed)	12	94188560	G	A	0			10.1038/s41467-020-15649-3	rs12303699	0.38	84492	437036
+Asthma (self-reported doctor-diagnosed)	13	43916045	C	G	0.00000038			10.1038/s41467-020-15649-3	rs61960013	0.21	84492	437036
+Asthma (self-reported doctor-diagnosed)	14	61517225	A	G	0.000000033			10.1038/s41467-020-15649-3	rs3751289	0.22	84492	437036
+Asthma (self-reported doctor-diagnosed)	14	92549049	A	G	0			10.1038/s41467-020-15649-3	rs10131197	0.33	84492	437036
+Asthma (self-reported doctor-diagnosed)	15	83908598	G	A	0			10.1038/s41467-020-15649-3	rs11259930	0.47	84492	437036
+Asthma (self-reported doctor-diagnosed)	16	3699396	C	G	0.000000083			10.1038/s41467-020-15649-3	rs11645975	0.74	84492	437036
+Asthma (self-reported doctor-diagnosed)	16	57360950	C	T	0.00000043			10.1038/s41467-020-15649-3	rs223819	0.91	84492	437036
+Asthma (self-reported doctor-diagnosed)	17	7425502	A	C	0.0000000011			10.1038/s41467-020-15649-3	rs72842819	0.12	84492	437036
+Asthma (self-reported doctor-diagnosed)	17	12290127	G	GC	0.0000000014			10.1038/s41467-020-15649-3	rs750065349	0.46	84492	437036
+Asthma (self-reported doctor-diagnosed)	17	64506317	G	A	0.000000097			10.1038/s41467-020-15649-3	rs1991401	0.69	84492	437036
+Asthma (self-reported doctor-diagnosed)	17	75829382	G	C	0.00000011			10.1038/s41467-020-15649-3	rs111365807	0.12	84492	437036
+Asthma (self-reported doctor-diagnosed)	17	78356473	G	C	0.0000011			10.1038/s41467-020-15649-3	rs76848919	0.2	84492	437036
+Asthma (self-reported doctor-diagnosed)	18	48924776	G	A	0.000000083			10.1038/s41467-020-15649-3	rs12956924	0.32	84492	437036
+Asthma (self-reported doctor-diagnosed)	19	3136093	C	T	0.00000032			10.1038/s41467-020-15649-3	rs117552144	0.06	84492	437036
+Asthma (self-reported doctor-diagnosed)	19	4355874	T	C	0.000027			10.1038/s41467-020-15649-3	rs10420217	0.28	84492	437036
+Asthma (self-reported doctor-diagnosed)	19		GC	G	0.0000000073			10.1038/s41467-020-15649-3	rs755023315	0.29	84492	437036
+Asthma (self-reported doctor-diagnosed)	19	16331971	C	T	0.000000014			10.1038/s41467-020-15649-3	rs34006614	0.33	84492	437036
+Asthma (self-reported doctor-diagnosed)	19	44749458	ATAT	A	0			10.1038/s41467-020-15649-3	rs143432496	0.27	84492	437036
+Asthma (self-reported doctor-diagnosed)	19	45867123	A	G	0			10.1038/s41467-020-15649-3	rs8103278	0.65	84492	437036
+Asthma (self-reported doctor-diagnosed)	19	51810908	A	G	0.00000015			10.1038/s41467-020-15649-3	rs11670020	0.14	84492	437036
+Asthma (self-reported doctor-diagnosed)	20	47053149	T	C	0.000000029			10.1038/s41467-020-15649-3	rs8125525	0.74	84492	437036
+Asthma (self-reported doctor-diagnosed)	21	15440734	A	G	0.000000026			10.1038/s41467-020-15649-3	rs1736147	0.57	84492	437036
+Asthma (self-reported doctor-diagnosed)	21	39677418	GC	G	0.00000015			10.1038/s41467-020-15649-3	rs34846236	0.48	84492	437036
