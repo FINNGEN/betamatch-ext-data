@@ -31,3 +31,5 @@ T1D.csv	TRUE
 T2D_eas.csv	FALSE
 T2D_multi.csv	FALSE
 T2D.csv	TRUE
+RHEUMA_SEROPOS_Ha2020_EastAsian.csv FALSE
+RHEUMA_SEROPOS_Ha2020_MetaAnalysis.csv FALSE
