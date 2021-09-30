@@ -59,6 +59,11 @@ T1D.csv	T1D
 T1D_Novel_Chiou_2021.txt T1D
 T2D.csv	T2D
 T2D_eas.csv	T2D
+T2D_Vujkovic2020_TransEthnicMetaAnalysis.txt    T2D
+T2D_Vujkovic2020_HISPANIC.txt   T2D
+T2D_Vujkovic2020_EUR.txt    T2D
+T2D_Vujkovic2020_EASTASIAN.txt  T2D
+T2D_Vujkovic2020_AFR.txt    T2D
 RHEUMA_SEROPOS.csv	RHEUMA_SEROPOS
 RHEUMA_SEROPOS_Ha2020_MetaAnalysis.txt	RHEUMA_SEROPOS
 RHEUMA_SEROPOS_Ha2020_EastAsian.txt	RHEUMA_SEROPOS
