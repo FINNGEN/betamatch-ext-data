@@ -27,6 +27,8 @@ H7_GLAUCPRIMOPEN_Gharahghani_2021_MetaAnalysis_TransAncestry.txt    FALSE
 H7_GLAUCPRIMOPEN_Gharahghani_2021_UKBB.txt  TRUE
 I9_AF.csv	TRUE
 I9_AF_Roselli2018_EUR.txt   TRUE
+I9_AF_Roselli2018_MultiAncestry.txt FALSE
+I9_AF_Roselli2018_Nielsen2018.txt   FALSE
 I9_HYPERTENSION.csv	TRUE
 I9_MI_STRICT.csv	TRUE
 I9_MI_STRICT_UKBBdef_Hartilla_2021.txt    TRUE
