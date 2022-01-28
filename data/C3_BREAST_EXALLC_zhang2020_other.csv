@@ -1,0 +1,4 @@
+trait	#chrom	pos	ref	alt	beta	se	pval	study_doi	rsid	notes
+C3_BREAST_EXALLC_Zhang2020, risk of triple negative breast cancer	6	33272092	C	T	-0.198450939	0.025510204	8.60E-13	10.1038/s41588-020-0609-2	rs17215231	meta-analysis of BCAC and CIMBA data, using fixed-effects model. See methods
+C3_BREAST_EXALLC_Zhang2020, risk of triple negative breast cancer	12	120997672	G	A	-0.061875404	0.015306122	2.50E-08	10.1038/s41588-020-0609-2	rs2464195	meta-analysis of BCAC and CIMBA data, using fixed-effects model. See methods
+C3_BREAST_EXALLC_Zhang2020, risk of triple negative breast cancer	17	7668434	T	G	-0.400477567	0.058673469	1.40E-08	10.1038/s41588-020-0609-2	rs78378222	meta-analysis of BCAC and CIMBA data, using fixed-effects model. See methods
